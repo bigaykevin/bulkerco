@@ -6,7 +6,8 @@
 ## Introduction
 
 BulkerCo is a desktop application targeted as cargo and ballast simulator for bulk carrier ships. Users can experience virtual operation of ballast console similar to one onboard. Cargo loading/discharging operations will run simultaneously during ballast operations to simulate ship at a port terminal. Users must monitor changes to ship condition and ballast plan must be followed competently.
-<br> A progress report will be shown at the end of simulation corresponding to the effectiveness of ballast plan, pump efficiency, ship’s strength throughout the operation and many more. 
+<br><br> BulkerCo performs extended period simulation of seawater within the ship's ballast systems which consist of pipes, junctions, pumps, valves, ballast tanks and eductors. User can track the flow of water in each pipe, the height of the water in each ballast tank, and pump mechanics throughout the network during ballast operation. A progress report will be shown at the end of simulation corresponding to the effectiveness of ballast plan, ship’s strength throughout the operation, pump efficiency and many more. 
+<br><br> The project utilizes similar principles and algorithm used in EPANET for ballast pipe network analysis.  Accurate physical behaviour of ballast water in the pipe system simulation is precisely achieved.
 
 ## Get Started
 This ReadMe is directed towards those interested in contributing to/acquiring the project. A quick overview about where BulkerCo is at in its development. Estimated app development is at 60%.
