@@ -5,9 +5,9 @@
 
 ## Introduction
 
-BulkerCo is a desktop application targeted as cargo and ballast simulator for bulk carrier ships. It aims to be a training simulator targeted towards aspiring deck officers for familiarization of the ballast system and bulk cargo operation. Officers can track the flow of water in each pipe, sounding in each ballast tank, and pump mechanics all the while being affected by trim and list of the ship during cargo operation. Consequently, officers will be acquainted with the nature of sea water in the ballast system.
+BulkerCo is a desktop application targeted as cargo and ballast simulator for bulk carrier ships. It aims to be a training simulator directed towards aspiring deck officers for familiarization of the ballast system. Officers can track the flow of water in each pipe, sounding in each ballast tank, and pump efficiency all the while being affected by trim and list of the ship during cargo operation. Consequently, with all these factors in mind, officers will be acquainted with the nature of sea water in the ballast system.
 <br><br> BulkerCo performs extended period simulation of seawater within the ship's ballast systems which consist of pipes, junctions, pumps, valves, ballast tanks and eductors. A progress report will be shown at the end of simulation corresponding to the effectiveness of ballast plan, ship’s strength throughout the operation, pump efficiency and many more. 
-<br><br> The project utilizes similar  algorithms and analysis techniques used in EPANET, a widely used water distribution system modelling.  Accurate physical behaviour of ballast water in the pipe system simulation is precisely achieved.
+<br><br> The project utilizes similar algorithms and analysis engine used in EPANET, a widely used water distribution system modelling.  As a result, accurate physical behaviour of ballast water in the pipe system is precisely achieved.
 
 ## Get Started
 This ReadMe is directed towards those interested in contributing to/acquiring the project. A quick overview about where BulkerCo is at in its development. Estimated app development is at 60%.
